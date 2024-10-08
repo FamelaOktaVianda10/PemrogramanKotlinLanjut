@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f8c3ec5-52f0-48fa-a8c0-1932ed4747a2" name="Changes" comment="Add MainApp">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PemrogramanKotlinLanjut.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2lrY8VnnwlSzNtB3LCEfuEF2OwI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.Alkulator_Sederhana_Menggunakan_PercabanganKt.executor": "Run",
+    "Kotlin.Argumen_Default_FungsiKt.executor": "Run",
+    "Kotlin.ArrayListOfKt.executor": "Run",
+    "Kotlin.ArrayOfKt.executor": "Run",
+    "Kotlin.Array_2_DimensiKt.executor": "Run",
+    "Kotlin.Array_MethodKt.executor": "Run",
+    "Kotlin.Array_MultidimensiKt.executor": "Run",
+    "Kotlin.Array_dengan_tipe_primitiveKt.executor": "Run",
+    "Kotlin.Array_standard_KotlinKt.executor": "Run",
+    "Kotlin.Break_dan_continueKt.executor": "Run",
+    "Kotlin.Break_dan_continue_label_pada_perulangan_for_loopKt.executor": "Run",
+    "Kotlin.CollectionsKt.executor": "Run",
+    "Kotlin.Ekspresi_LambdasKt.executor": "Run",
+    "Kotlin.Elvis_OperatorKt.executor": "Run",
+    "Kotlin.Exception_HandlingKt.executor": "Run",
+    "Kotlin.Fungsi_MathKt.executor": "Run",
+    "Kotlin.Fungsi_dengan_nilai_kembaliKt.executor": "Run",
+    "Kotlin.Fungsi_tanpa_nilai_kembaliKt.executor": "Run",
+    "Kotlin.Kalkulator_Sederhana_Menggunakan_PercabanganKt.executor": "Run",
+    "Kotlin.Kalkulator_Sederhana_Menggunakan_Percabangan_WhenKt.executor": "Run",
+    "Kotlin.ListOfKt.executor": "Run",
+    "Kotlin.MapKt.executor": "Run",
+    "Kotlin.Menggunakan_Pair_sebagai_nilai_kembaliKt.executor": "Run",
+    "Kotlin.Menghitung_Akar_KuadratKt.executor": "Run",
+    "Kotlin.Menghitung_Luas_dan_Keliling_LingkaranKt.executor": "Run",
+    "Kotlin.MutableListOfKt.executor": "Run",
+    "Kotlin.Null_SafetyKt.executor": "Run",
+    "Kotlin.Pemanggilan_yang_aman__Safe_Calls_Kt.executor": "Run",
+    "Kotlin.Pemeriksaan_Kondisi_NullKt.executor": "Run",
+    "Kotlin.Penerapan_For_Loop_dalam_Kalkulator_EksponensialKt.executor": "Run",
+    "Kotlin.Penerapan_For_Loop_dalam_Tabel_PerkalianKt.executor": "Run",
+    "Kotlin.Penerapan_While_Loop_dalam_Kalkulator_SederhanaKt.executor": "Run",
+    "Kotlin.Percabangan1Kt.executor": "Run",
+    "Kotlin.Percabangan2Kt.executor": "Run",
+    "Kotlin.Perulangan_menggunakan_for_loopKt.executor": "Run",
+    "Kotlin.RangesKt.executor": "Run",
+    "Kotlin.Return_pada_perulangan_for_loopKt.executor": "Run",
+    "Kotlin.SetKt.executor": "Run",
+    "Kotlin.Single_Expression_FunctionsKt.executor": "Run",
+    "Kotlin.WhenKt.executor": "Run",
+    "Kotlin.While_dan_Do_While_LoopKt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/LOQ/IdeaProjects/PemrogramanKotlinLanjut/src/Main.kt",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Kotlin.CollectionsKt">
+    <configuration name="Array_2_DimensiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_2_DimensiKt" />
+      <module name="PemrogramanKotlinLanjut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array_MethodKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_MethodKt" />
+      <module name="PemrogramanKotlinLanjut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array_dengan_tipe_primitiveKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_dengan_tipe_primitiveKt" />
+      <module name="PemrogramanKotlinLanjut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array_standard_KotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_standard_KotlinKt" />
+      <module name="PemrogramanKotlinLanjut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionsKt" />
+      <module name="PemrogramanKotlinLanjut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.CollectionsKt" />
+        <item itemvalue="Kotlin.Array_MethodKt" />
+        <item itemvalue="Kotlin.Array_dengan_tipe_primitiveKt" />
+        <item itemvalue="Kotlin.Array_standard_KotlinKt" />
+        <item itemvalue="Kotlin.Array_2_DimensiKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f8c3ec5-52f0-48fa-a8c0-1932ed4747a2" name="Changes" comment="" />
+      <created>1725939505306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725939505306</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Starter project">
+      <option name="closed" value="true" />
+      <created>1725940368261</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725940368261</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add MainApp">
+      <option name="closed" value="true" />
+      <created>1725940533667</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725940533667</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add MainApp">
+      <option name="closed" value="true" />
+      <created>1725942876416</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725942876416</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add MainApp">
+      <option name="closed" value="true" />
+      <created>1725943452271</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725943452271</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add MainApp">
+      <option name="closed" value="true" />
+      <created>1725943992408</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725943992408</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add MainApp">
+      <option name="closed" value="true" />
+      <created>1725944242074</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725944242074</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add MainApp">
+      <option name="closed" value="true" />
+      <created>1726388012630</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726388012630</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add MainApp">
+      <option name="closed" value="true" />
+      <created>1726418970815</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726418970815</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Starter project" />
+    <MESSAGE value="Add MainApp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add MainApp" />
+  </component>
+</project>
